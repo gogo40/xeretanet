@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xeretanet", "xeretanet.csproj", "{9B742F1A-02A4-4799-84D2-CC66C2FA2B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B742F1A-02A4-4799-84D2-CC66C2FA2B84}.Debug|x86.ActiveCfg = Debug|x86
+		{9B742F1A-02A4-4799-84D2-CC66C2FA2B84}.Debug|x86.Build.0 = Debug|x86
+		{9B742F1A-02A4-4799-84D2-CC66C2FA2B84}.Release|x86.ActiveCfg = Release|x86
+		{9B742F1A-02A4-4799-84D2-CC66C2FA2B84}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = xeretanet.csproj
+	EndGlobalSection
+EndGlobal
